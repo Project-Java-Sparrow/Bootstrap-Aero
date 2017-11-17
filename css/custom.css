@@ -54,6 +54,9 @@ body{
 
 .warpper {
     border-radius: 2px 2px 2px 2px;
+    border-style: solid;
+    border-color: #2c445b;
+    border-width: 1px;
     background-color: white;
     padding: 15px;
 }
