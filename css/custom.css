@@ -61,3 +61,16 @@ body{
     padding: 15px;
 }
 
+.footer{
+    float:right;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left: 5px;
+    color:black;
+    text-shadow: 1px 0px 10px white;
+ 
+}
+.footer a{ 
+    color:black;
+}
+
